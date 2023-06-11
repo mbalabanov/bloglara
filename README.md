@@ -1,2 +1,2 @@
-# bloglara
- A small blog using Laravel
+# Blog Lara
+ A small blog using Laravel.
